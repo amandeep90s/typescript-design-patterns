@@ -1,0 +1,28 @@
+{
+  "name": "typescript-design-patterns",
+  "version": "1.0.0",
+  "description": "Complete Guide to Gang Of Four Design Patterns, SOLID Principles and Object Oriented Programming Using TypeScript",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandeep90s/typescript-design-patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/amandeep90s/typescript-design-patterns/issues"
+  },
+  "homepage": "https://github.com/amandeep90s/typescript-design-patterns#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4",
+    "prettier": "^3.8.3"
+  }
+}
