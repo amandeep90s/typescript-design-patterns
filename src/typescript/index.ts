@@ -1,5 +1,6 @@
 // OOP in Typescript
 import './oops/abstraction';
-import './oops/abstrction-implementation';
+import './oops/abstraction-implementation';
 
 import './oops/encapsulation';
+import './oops/encapsulation-implementation';

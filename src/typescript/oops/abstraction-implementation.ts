@@ -1,5 +1,5 @@
 // Get the current date and time
-const now = new Date();
+export const now = new Date();
 
 // Display current year, month and day
 const currentYear = now.getFullYear();
